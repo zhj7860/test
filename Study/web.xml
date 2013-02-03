@@ -1,0 +1,8 @@
+
+<beans> 
+<bean id = "TestBean"
+class = "zhj.study.test.TestAction"
+> 
+
+</bean> 
+</beans> 
